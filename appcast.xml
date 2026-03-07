@@ -8,7 +8,7 @@
       <description>• Performance improvements </description>
       <pubDate>Sat, 07 Mar 2026 03:25:00 +0000</pubDate>
       <enclosure
-        url="https://play.google.com/store/apps/details?id=com.awlyg.mourajatak
+        url="https://play.google.com/store/apps/details?id=com.awlyg.mourajatak"
         sparkle:version="1.0.1"
         sparkle:os="android" />
     </item>
@@ -18,9 +18,10 @@
       <description>• Performance improvements </description>
       <pubDate>Sat, 07 Mar 2026 03:25:00 +0000</pubDate>
       <enclosure
-        url="https://apps.apple.com/us/app/mourajatak/id6756188550
+        url="https://apps.apple.com/us/app/mourajatak/id6756188550"
         sparkle:version="1.0.1"
         sparkle:os="ios" />
     </item>
+
   </channel>
 </rss>
