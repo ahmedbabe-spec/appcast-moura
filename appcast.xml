@@ -4,22 +4,22 @@
     <title>My App – Appcast</title>
 
     <item>
-      <title>Version 1.0.2 (Android)</title>
-      <description>• Performance improvements </description>
-      <pubDate>Mon, 01 Jun 2026 11:15:00 +0000</pubDate>
+      <title>Version 1.0.3 (Android)</title>
+      <description>• Live classes, smoother sign-in and fixes</description>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure
         url="https://play.google.com/store/apps/details?id=com.awlyg.mourajatak"
-        sparkle:version="1.0.2"
+        sparkle:version="1.0.3"
         sparkle:os="android" />
     </item>
 
     <item>
-      <title>Version 1.0.2 (iOS)</title>
-      <description>• Performance improvements </description>
-      <pubDate>Mon, 01 Jun 2026 11:15:00 +0000</pubDate>
+      <title>Version 1.0.3 (iOS)</title>
+      <description>• Live classes, smoother sign-in and fixes</description>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure
         url="https://apps.apple.com/us/app/mourajatak/id6756188550"
-        sparkle:version="1.0.2"
+        sparkle:version="1.0.3"
         sparkle:os="ios" />
     </item>
 

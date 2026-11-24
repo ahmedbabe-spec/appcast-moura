@@ -1,6 +1,6 @@
 {
-  "minVersion": "1.0.2",
-  "latestVersion": "1.0.2",
+  "minVersion": "1.0.3",
+  "latestVersion": "1.0.3",
   "forceOn": ["android","ios"],
-  "note": "Performance improvements - must update"
+  "note": "Live classes, smoother sign-in and fixes - must update"
 }
